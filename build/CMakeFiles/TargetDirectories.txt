@@ -1,1 +1,0 @@
-/home/ly/xsens_pc_simple/build/CMakeFiles/xsens_pc_uart.dir
