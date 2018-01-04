@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -O3 -DNDEBUG   CMakeFiles/xsens_pc_uart.dir/src/main.cpp.o CMakeFiles/xsens_pc_uart.dir/src/xsens.cpp.o CMakeFiles/xsens_pc_uart.dir/src/xbusmessage.c.o  -o ../bin/xsens_pc_uart -rdynamic 
